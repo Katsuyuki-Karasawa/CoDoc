@@ -24,7 +24,7 @@ Generate a new Docusaurus site using the **classic template**.
 The classic template will automatically be added to your project after you run the command:
 
 ```bash
-npm init docusaurus@latest my-website classic
+pnpm init docusaurus@latest my-website classic
 ```
 
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
@@ -37,7 +37,7 @@ Run the development server:
 
 ```bash
 cd my-website
-npm run start
+pnpm run start
 ```
 
 The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
